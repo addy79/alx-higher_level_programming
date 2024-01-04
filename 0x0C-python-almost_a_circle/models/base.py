@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+g!/usr/bin/python3
 
 """Defines a base model class."""
 import json
